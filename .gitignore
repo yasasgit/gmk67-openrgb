@@ -1,0 +1,5 @@
+build/
+OpenRGB/
+__pycache__/
+*.pcap
+*.pcapng
